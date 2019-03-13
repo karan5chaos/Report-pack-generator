@@ -42,7 +42,7 @@ namespace Report_pack_generator
         //==========================
         //REQUIRED VARIABLES.
         //==========================
-        string connectionString = "Server=gbips-i-db700;Database=FINMAR_Placement;Integrated Security=True;";
+        string connectionString = "Server=--server--;Database=--database--;Integrated Security=True;";
 
         Button pdfbutton = null;
         Button folderbutton = null;
