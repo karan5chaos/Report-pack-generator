@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Report_pack_generator.About" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAACAAABQAAASAAAACAAAgAAAAICAAAABAAAA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Advanced_Settings" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAASBASAAADWABACBCIhCIAgIAAogUCABQQEAAAE=</HashCode>
+      <FileName>Advanced_Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Basic_Settings" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQAACAhABQQIAKAAIACAAAIIAAAAGAACAAAAAA=</HashCode>
+      <FileName>Basic_Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Compact_Mode" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBQgAAEDIGAAYJAABgiAAAASAIABEAAAQGAEAQBAABE=</HashCode>
+      <FileName>Compact_Mode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Main_Page" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/7zhBIOjNaH/7dkR5nDNE6CS2uc/dIos8n8ex5HX54c=</HashCode>
+      <FileName>Main_Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.compact_instance" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIA=</HashCode>
+      <FileName>Modules\Compact_Mode_Instance.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Program" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmbeddedAssembly" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modules\EmbeddedAssembly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Functions.get_Functions" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACAAABIAAAAAAAAAEAABgAgAAAEAAABAAIAA=</HashCode>
+      <FileName>Modules\Get_Functions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Modules.Get_Status" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAQAAAAAAAAAAAgAAAABAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Modules\Get_Status.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Modules.Global_Variables" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Modules\Global_Variables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAAAQAAAAAAAAAAAABBEAAAAQAAAAAAAABAAAEAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Properties.Settings" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Settings.color_settings" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAhAAAAAAAAAAIACAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Settings.excel_settings" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAIAAgAABAAABAwAIAAAgAABAgAAABAAAAIAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Settings.folder" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Report_pack_generator.Settings.report_pack" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAYAAAAAAJAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

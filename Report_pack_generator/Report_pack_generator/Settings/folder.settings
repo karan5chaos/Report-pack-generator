@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Report_pack_generator.Settings" GeneratedClassName="folder">
+  <Profiles />
+  <Settings>
+    <Setting Name="folders" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Cover for Client&lt;/string&gt;
+  &lt;string&gt;Commentaries&lt;/string&gt;
+  &lt;string&gt;Pipeline&lt;/string&gt;
+  &lt;string&gt;Analysis&lt;/string&gt;
+  &lt;string&gt;Bordereaux&lt;/string&gt;
+  &lt;string&gt;Additional Requirements&lt;/string&gt;
+  &lt;string&gt;Data Sources and Service Summary&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="covert_pdf" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

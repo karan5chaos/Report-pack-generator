@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Report_pack_generator.Settings" GeneratedClassName="report_pack">
+  <Profiles />
+  <Settings>
+    <Setting Name="output_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="commentary_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\inmum-i-fs5\group$\Global Corporate &amp; Data Strategy\FMS\Process\BIA\FINMAR\Commentaries\</Value>
+    </Setting>
+    <Setting Name="generated_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\gbips-i-fs101\group\FINMAR Market Services\Client Service\Reports\Generated Reports</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

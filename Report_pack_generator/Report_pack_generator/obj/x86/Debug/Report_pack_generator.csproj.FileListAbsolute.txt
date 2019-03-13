@@ -1,0 +1,9 @@
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\bin\Debug\Report_pack_generator.exe.config
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\bin\Debug\Report_pack_generator.exe
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\bin\Debug\Report_pack_generator.pdb
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\obj\x86\Debug\Report_pack_generator.Form1.resources
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\obj\x86\Debug\Report_pack_generator.Properties.Resources.resources
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\obj\x86\Debug\Report_pack_generator.csproj.GenerateResource.Cache
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\obj\x86\Debug\Report_pack_generator.exe
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\obj\x86\Debug\Report_pack_generator.pdb
+C:\Users\PipraniKM\documents\visual studio 2010\Projects\Report_pack_generator\Report_pack_generator\obj\x86\Debug\Report_pack_generator.Advanced_settings.resources
