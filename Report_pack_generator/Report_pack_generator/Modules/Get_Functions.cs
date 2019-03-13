@@ -128,7 +128,6 @@ namespace Report_pack_generator.Functions
                             if (col.Width < 1)
                             {
                                 col.Width = 14;
-
                             }
                         }
                         ws.Columns["D:F"].AutoFit();
@@ -141,7 +140,6 @@ namespace Report_pack_generator.Functions
                         {
                             ws.Range["D10:D2000"].WrapText = true;
                         }
-
                     }
                     wkb.Save();
 
@@ -160,7 +158,6 @@ namespace Report_pack_generator.Functions
                 }
             }
             return isError;
-
         }
 
         public static bool warp_text(string file, Excel.Application app)
@@ -168,13 +165,10 @@ namespace Report_pack_generator.Functions
             bool isError = false;
             if (excel_settings.Default.unhide_column)
             {
-
                 try
                 {
                     Get_Status.staus_messages.Add("Warp text in - " + Path.GetFileNameWithoutExtension(file) + " ..");
-
                     Excel.Workbook wkb = app.Workbooks.Open(file);
-
 
                     foreach (Excel.Worksheet ws in wkb.Sheets)
                     {
@@ -192,7 +186,6 @@ namespace Report_pack_generator.Functions
                     Marshal.FinalReleaseComObject(wkb);
 
                     Get_Status.staus_messages.Add("Warp text enabled");
-
                 }
 
                 catch(Exception exception)
@@ -202,7 +195,6 @@ namespace Report_pack_generator.Functions
                 }
             }
             return isError;
-
         }
 
         public static bool remove_NewRenewColumn(string file, Excel.Application app)
@@ -276,9 +268,7 @@ namespace Report_pack_generator.Functions
                             }
                         }
                         merged = true;
-
                         Get_Status.staus_messages.Add("Report pack compilation successful.");
-
                     }
                     catch(Exception exception)
                     {
@@ -288,9 +278,8 @@ namespace Report_pack_generator.Functions
                             reader.Close();
                         }
                         Get_Status.staus_messages.Add("Error occured while report pack compilation");
-                        
-
                     }
+                    
                     finally
                     {
                         if (document != null)
